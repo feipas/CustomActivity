@@ -1,2 +1,0 @@
-# CustomActivity
-CustomActivity
